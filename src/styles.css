@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.App {
+  margin-top: 30px;
+  border: 3px solid white;
+
+  width: 500px;
+
+  background-color: blueviolet;
+  text-align: center;
+}
+input {
+  height: 30px;
+  width: 250px;
+  font-size: 20px;
+}
+.add {
+  font-size: 20px;
+  height: 35px;
+  width: 80px;
+  background-color: green;
+  margin-bottom: 10px;
+}
+.submit {
+  font-size: 20px;
+  height: 35px;
+  width: 80px;
+  background-color: lightgreen;
+}

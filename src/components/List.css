@@ -1,0 +1,21 @@
+.main {
+  background-color: orange;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+}
+.del {
+  background-color: red;
+  font-size: 18px;
+  margin-right: 5px;
+}
+.btndiv {
+  margin-right: 10px;
+}
+li {
+  font-size: 18px;
+}
+.edit {
+  font-size: 18px;
+}
